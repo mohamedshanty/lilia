@@ -32,7 +32,7 @@ export default function Statistics() {
       sx={{
         pb: 10,
         backgroundColor: "#ffffff",
-        backgroundImage: "url('/Image/counters-bg.png')",
+        backgroundImage: "url('/public/Image//counters-bg.png')",
         position: "relative",
       }}
     >

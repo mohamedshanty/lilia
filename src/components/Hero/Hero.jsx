@@ -152,7 +152,11 @@ const Hero = () => {
               position: "relative",
             }}
           >
-            <Box component={"img"} src="/Image/home.jpg" alt="Hero Image" />
+            <Box
+              component={"img"}
+              src="/public/Image/home.jpg"
+              alt="Hero Image"
+            />
           </motion.div>
         </motion.div>
       </Container>

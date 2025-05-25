@@ -19,21 +19,21 @@ const ServicesSection = () => {
   const services = [
     {
       number: "1",
-      icon: "/Image/icon-1.png",
+      icon: "/public/Image//icon-1.png",
       title: "Search Engine Optimization",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et.",
     },
     {
       number: "2",
-      icon: "/Image/icon-2.png",
+      icon: "/public/Image//icon-2.png",
       title: "Speed Optimization & Data Analysis",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et.",
     },
     {
       number: "3",
-      icon: "/Image/icon-3.png",
+      icon: "/public/Image//icon-3.png",
       title: "Online Marketing Management",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore et.",
