@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.transition {
+  transition: all 0.3s;
+}
+
+html {
+  max-width: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
+@media (max-width: 767px) {
+  .display {
+    display: none !important;
+  }
+}
+
+.slick-track {
+  display: flex !important;
+  gap: 16px !important;
+}
