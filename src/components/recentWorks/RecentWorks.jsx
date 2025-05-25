@@ -135,7 +135,7 @@ const RecentWorks = () => {
           animate="visible"
         >
           {filteredProjects.map((project, index) => {
-            const imageSrc = `/public/Image//item-${index + 1}.jpg`;
+            const imageSrc = `/Image/item-${index + 1}.jpg`;
             return (
               <Grid
                 size={{ xs: 12, sm: 6, md: 4 }}

@@ -10,7 +10,7 @@ const feedbacks = [
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
     name: "Silvia Hatmun",
     role: "Graphic Designer",
-    avatar: "/public/Image//1 (1).jpg",
+    avatar: "/Image/1 (1).jpg",
     color: "#f87171",
   },
   {
@@ -18,7 +18,7 @@ const feedbacks = [
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
     name: "Joe Paulian",
     role: "Web Developer",
-    avatar: "/public/Image//2 (1).jpg",
+    avatar: "/Image/2 (1).jpg",
     color: "#f7b08a",
   },
   {
@@ -26,7 +26,7 @@ const feedbacks = [
     text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
     name: "Cristina Jordan",
     role: "Web Designer",
-    avatar: "/public/Image//3 (1).jpg",
+    avatar: "/Image/3 (1).jpg",
     color: "#5eae81",
   },
 ];

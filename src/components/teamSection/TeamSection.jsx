@@ -16,7 +16,7 @@ const teamMembers = [
   {
     name: "Razan Smith",
     role: "Web Designer",
-    image: "/public/Image//1.png",
+    image: "/Image/1.png",
     socials: {
       facebook: "#",
       twitter: "#",
@@ -26,7 +26,7 @@ const teamMembers = [
   {
     name: "Jack Hakman",
     role: "Web Developer",
-    image: "/public/Image//2.png",
+    image: "/Image/2.png",
     socials: {
       facebook: "#",
       twitter: "#",
@@ -36,7 +36,7 @@ const teamMembers = [
   {
     name: "Salem Doe",
     role: "Marketer",
-    image: "/public/Image//3.png",
+    image: "/Image/3.png",
     socials: {
       facebook: "#",
       twitter: "#",

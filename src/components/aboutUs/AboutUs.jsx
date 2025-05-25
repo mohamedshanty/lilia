@@ -44,7 +44,7 @@ export default function AboutUs() {
             }}
           >
             <img
-              src="/public/Image//about.png"
+              src="/Image/about.png"
               alt="About Us"
               style={{
                 width: "100%",

@@ -19,7 +19,7 @@ import { Link } from "react-router-dom";
 const posts = [
   {
     id: 1,
-    image: "/public/Image//1.jpg",
+    image: "/Image/1.jpg",
     title: "Post Title Goes Here",
     date: "18 sep",
     excerpt:
@@ -28,7 +28,7 @@ const posts = [
   },
   {
     id: 2,
-    image: "/public/Image//2.jpg",
+    image: "/Image/2.jpg",
     title: "Post Title Goes Here",
     date: "18 sep",
     excerpt:
@@ -37,7 +37,7 @@ const posts = [
   },
   {
     id: 3,
-    image: "/public/Image//3.jpg",
+    image: "/Image/3.jpg",
     title: "Post Title Goes Here",
     date: "18 sep",
     excerpt:
